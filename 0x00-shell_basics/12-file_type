@@ -1,2 +1,2 @@
-#!/bin/bash/
-stat "/tmp/iamfile"
+#!/bin/bash
+stat /tmp/iamafile
