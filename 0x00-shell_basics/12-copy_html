@@ -1,2 +1,2 @@
-#!/bin/basha
+#!/bin/bash
 rsync -av ignore-existing *.html /alx-system_engineering-devops/
