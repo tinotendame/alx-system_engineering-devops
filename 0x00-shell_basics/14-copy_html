@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -av ignore-existing *.html /alx-system_engineering-devops/
+cp -update *.html /tmp/
